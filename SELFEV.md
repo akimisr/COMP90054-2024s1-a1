@@ -6,7 +6,7 @@
 
 **Student:**
 
-your full name - your student number - your canvas student login
+YOUYANG ZHANG - 1251227 - YOUYAZHANG
 
 > [!IMPORTANT]
 > Replace the lines above with your correct details. Your student number should only be the **numbers**. For example:
